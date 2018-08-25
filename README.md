@@ -1,5 +1,7 @@
 # Memory Game Project  
  This is a complete browser based `card matching game` (also known as  **concentration** ).
+ 
+ [Memory Game: Click To Play](https://nayaksofia.github.io/memory-game-udacity-sofia/)
 
 ## How the game works?
 * The game board consists of `sixteen cards` arranged in a **grid**.
